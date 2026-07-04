@@ -8,17 +8,20 @@
 :root{
 
     /*CORES*/
-    --color-white: #FFFFFF; /* Variável de cor */
-    --color-blue: #11B0C8; /* Variável de cor */
-    --color-black: #000000; /* Variável de cor */
-    --color-gray: #0F0F0F; /* Variável de cor */
-    --color-gray2: #1A1A1A; /* Variável de cor */
+    --color-white: #FFFFFF; 
+    --color-blue: #11B0C8; 
+    --color-black: #000000; 
+    --color-gray: #0F0F0F; 
+    --color-gray2: #1A1A1A; 
 
     /*FONTES*/
-    --font-size-h1: 40px; /* Variável tamanho da fonte */
-    --font-size-h2: 40px; /* Variável tamanho da fonte */
-    --font-size-button: 20px; /* Variável tamanho da fonte */
-    --font-size-caption: 20px; /* Variável tamanho da fonte */
+    --font-size-h1: 40px; 
+    --font-size-h2: 40px;
+    --font-size-button: 20px; 
+    --font-size-caption: 20px;
+
+    --font-weight-h1: 700px;
+    --font-weight-body: 400px;
 
     --font-family-primary:"Poppins", sans-serif; /* Variável para a familia da fonte */
 }
