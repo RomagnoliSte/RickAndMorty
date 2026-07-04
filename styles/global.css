@@ -1,0 +1,24 @@
+*{
+    border: 0; /*Zerar borda*/
+    margin: 0; /*Zerar Margin*/
+    padding: 0; /*Zerar Padding*/
+    box-sizing: border-box; /*Respeitar largura e altura*/
+}
+
+:root{
+
+    /*CORES*/
+    --color-white: #FFFFFF; /* Variável de cor */
+    --color-blue: #11B0C8; /* Variável de cor */
+    --color-black: #000000; /* Variável de cor */
+    --color-gray: #0F0F0F; /* Variável de cor */
+    --color-gray2: #1A1A1A; /* Variável de cor */
+
+    /*FONTES*/
+    --font-size-h1: 40px; /* Variável tamanho da fonte */
+    --font-size-h2: 40px; /* Variável tamanho da fonte */
+    --font-size-button: 20px; /* Variável tamanho da fonte */
+    --font-size-caption: 20px; /* Variável tamanho da fonte */
+
+    --font-family-primary:"Poppins", sans-serif; /* Variável para a familia da fonte */
+}
